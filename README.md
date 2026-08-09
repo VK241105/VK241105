@@ -7,10 +7,10 @@ I'm a passionate **AI/ML and software development enthusiast** interested in bui
 * 🔭 Currently working on **AI/ML and Computer Vision projects**
 * ☁️ Currently learning **AWS Cloud Architecture**
 * 🤖 Interested in **Machine Learning, Deep Learning, NLP & Computer Vision**
-* 💻 Building applications using **Python, C, Java, React.js & JavaScript**
+* 💻 Working with **Python, C, Java, JavaScript & React.js**
 * 🐳 Familiar with **Docker & Linux**
-* 🔧 Experienced with **Git & GitHub**
-* 🌱 Continuously improving my skills in **AI/ML, Cloud Computing and Software Development**
+* 🔧 Working with **Git & GitHub**
+* 🌱 Continuously improving my skills in **AI/ML, Cloud Computing & Software Development**
 * 🎯 Aspiring to build impactful AI-powered applications and scalable software solutions
 
 ---
@@ -51,15 +51,15 @@ I'm a passionate **AI/ML and software development enthusiast** interested in bui
 
 ### 🛰️ Space Debris Detection
 
-An AI-powered space debris detection system using **YOLO, Deep Learning, OpenCV, and Streamlit**.
+An AI-powered **Space Debris Detection** system developed using Deep Learning and Computer Vision techniques.
 
 **Features:**
 
 * 🛰️ Space debris detection
 * 🎥 Image and video processing
-* 🔍 Object detection
+* 🔍 YOLO-based object detection
 * 📊 Detection visualization
-* 🤖 YOLO-based Deep Learning model
+* ⚡ Real-time detection capabilities
 * 🌐 Streamlit-based interface
 
 **Tech Stack:**
@@ -69,12 +69,12 @@ An AI-powered space debris detection system using **YOLO, Deep Learning, OpenCV,
 
 ### 🍽️ DigiDine – Restaurant Management System
 
-A modern restaurant management system designed to improve restaurant operations through digital ordering and management features.
+A modern **Restaurant Management System** designed to improve restaurant operations through digital ordering and management features.
 
 **Features:**
 
-* 📱 Digital QR menu
-* 👨‍🍳 Kitchen Display System
+* 📱 QR-based digital menu
+* 👨‍🍳 Kitchen Display System (KDS)
 * 🧑‍💼 Waiter tablet interface
 * 📋 Restaurant order management
 
@@ -85,7 +85,7 @@ A modern restaurant management system designed to improve restaurant operations 
 
 ## 📜 Certifications
 
-* ☁️ Google Cloud Engineer
+* ☁️ **Google Cloud Engineer**
 
 ---
 
@@ -99,17 +99,21 @@ Currently expanding my knowledge of **AWS cloud services, cloud architecture, in
 
 ## 🏆 Achievements & Activities
 
-* 🥇 **1st Runner-up – Fusion of Tradition (FOT)**, College-Level Traditional Dance Competition at KIT
-* 🚀 Volunteer – **Smart India Hackathon**
+* 🥇 **1st Runner-up – Fusion of Tradition (FOT)**
+  College-Level Traditional Dance Competition, KIT
+
+* 🚀 **Volunteer – Smart India Hackathon**
+
 * 👩‍💻 Active participant in technical and college activities
 
 ---
 
 ## 📊 GitHub Stats
 
-![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=VK241105\&show_icons=true\&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VK241105\&layout=compact\&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VK241105&show_icons=true&hide_border=true&theme=transparent" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VK241105&layout=compact&hide_border=true&theme=transparent" height="170"/>
+</p>
 
 ---
 
@@ -119,9 +123,8 @@ Currently expanding my knowledge of **AWS cloud services, cloud architecture, in
 
 💻 **GitHub:** [VK241105](https://github.com/VK241105)
 
-🔗 **LinkedIn:** 
+🔗 **LinkedIn:** [Vaishnavi Mane](https://www.linkedin.com/in/vaishnavimane1124/)
 
 ---
 
 ### 💡 Building intelligent solutions, learning new technologies, and growing every day.
-
